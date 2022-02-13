@@ -1,3 +1,3 @@
 # demo-repo
 Introduction to Git
-Basic Commands
+Basic Commands of Git and GitHub
